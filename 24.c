@@ -14,18 +14,18 @@ int main() {
     printf("Enter the no. of units consumed: ");
     scanf("%d", &unit);
     if (unit>0){
-        if (unit <=100) {
+        if (unit<=100) {
             price=unit*5;
             printf("Bill: %.2f\n", price);
         } else if(unit>100 && unit<=200) {
-            price=unit*7-500;
+            price=500 + (unit-100)*7;
             printf("Bill: %.2f\n", price);
         } else if (unit>200 && unit<=300) {
-            price=unit*10-1200;
-            printf("Bill: %.2f", price);
+            price=1200 + (unit-200)*10;
+            printf("Bill: %.2f\n", price);
         } else {
-            price=unit*12-2200;
-            printf("Bill: %.2f", price);
+            price=2200 + (unit-300)*12;
+            printf("Bill: %.2f\n", price);
         }
     } else {
         printf("Invalid input\n");
