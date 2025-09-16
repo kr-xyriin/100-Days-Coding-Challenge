@@ -1,5 +1,27 @@
-# 100-Days-Code
-Welcome to the 100-Days-Coding-Challenge!
-This repository will track my daily progress as I commit to coding for at least one hour every day over the next 100 days. The goal is to build consistent coding habits, expand my knowledge, and document what I've learned or created along the way.
-<br>
-Follow along to see updates, code snippets, and reflections on this journey towards becoming a better programmer.
+# 🔵 100 Days Coding Challenge – C Branch
+
+This branch is dedicated to solving problems and practicing concepts in **C programming** as part of my **100 Days Coding Challenge**.  
+It focuses on mastering C fundamentals, improving problem-solving, and building a strong programming foundation.
+
+---
+
+## 📌 Learning Goals
+- ✅ Master C syntax and core concepts  
+- ✅ Strengthen problem-solving with structured programs  
+- ✅ Explore data structures & algorithms in C  
+- ✅ Develop the habit of writing clean and modular code  
+
+---
+
+## ⚡ Progress Tracking
+| Day | Topic | Status |
+|-----|-------|--------|
+| 01  | Basic I/O | ✅ |
+| 02  | Conditionals | ✅ |
+| 03  | Loops | ⏳ |
+| ... | ... | ... |
+
+**---**
+
+## 🎯 End Goal
+By the end of 100 days, this branch will serve as a **comprehensive practice archive** of C programs — from beginner-level syntax to advanced problem-solving.
