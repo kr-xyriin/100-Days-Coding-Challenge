@@ -9,12 +9,12 @@ int main() {
     else{
         while (count<=num/2) {
             if (num%count==0) {
-                printf("%d is not a prime no.\n", num);
+                printf("Not prime\n", num);
                 flag=1;
                 break;
             } count++;
         } if (flag==0) {
-            printf("%d is a prime no.\n", num);
+            printf("Prime\n", num);
         }
     }
     return 0;
