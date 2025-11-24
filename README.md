@@ -18,7 +18,7 @@ It focuses on mastering C fundamentals, improving problem-solving, and building 
 |-----|-------|--------|
 | 01  | Basic I/O | ✅ |
 | 02  | Conditionals | ✅ |
-| 03  | Loops | ⏳ |
+| 03  | Loops | ✅ |
 | ... | ... | ... |
 
 **---**
