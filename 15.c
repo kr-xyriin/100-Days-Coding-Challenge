@@ -6,7 +6,7 @@ int main()
     char check;
     printf("Enter any character: ");
     scanf("%s", &check);
-    if (check >= 'A' && check <= 'A')
+    if (check >= 'A' && check <= 'Z')
     {
         printf("%c is an uppercase alphabet \n", check);
     }
